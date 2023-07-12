@@ -1,0 +1,10 @@
+name: ItemRenameTag
+main: woccck\ItemRename\ItemRenameTag
+api: 5.0.0
+version: 1.0.0
+
+permissions:
+  itemrenametag.giveitem:
+    default: op
+  itemrenametag.reload:
+    default: op
