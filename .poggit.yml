@@ -5,5 +5,5 @@ branches:
 projects:
   ItemRenameTag:
     path: ""
-
+    icon: "icon.png"
 ...
