@@ -1,0 +1,18 @@
+items:
+  itemnametag:
+    type: 'minecraft:paper'
+    name: '&r&6&lItem Rename Tag &r&7(Right Click)'
+    lore:
+      - '&r&7Rename and customize your equipment'
+    messages:
+      success:
+        - "&r&e&l(!) &r&eYour ITEM has been renamed to: '{item_name}&e'"
+      air:
+        - '&r&l&e** You must hold an item in your hand.'
+      renaming-non-enchanted-item:
+        - '&r&l&e** Item must be enchanted to rename.'
+      activate:
+        - "    &r&6&lRename-Tag Usage"
+        - "&r&61. &r&7Hold the ITEM you'd like to rename."
+        - "&r&62. &r&7Send the new name as a chat message &lwith & color codes&r&7."
+        - "&r&63. &r&7Confirm the preview of the new name that is displayed."
