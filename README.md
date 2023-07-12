@@ -1,5 +1,10 @@
 # ItemRenameTag
 
+[![](https://poggit.pmmp.io/shield.state/ItemRenameTag)](https://poggit.pmmp.io/p/ItemRenameTag)
+<a href="https://poggit.pmmp.io/p/ItemRenameTag"><img src="https://poggit.pmmp.io/shield.state/ItemRenameTag"></a [![](https://poggit.pmmp.io/shield.api/ItemRenameTag)](https://poggit.pmmp.io/p/ItemRenameTag)
+<a href="https://poggit.pmmp.io/p/ItemRenameTag"><img src="https://poggit.pmmp.io/shield.api/ItemRenameTag"></a>
+
+
 ItemRenameTag is a plugin for PocketMine-MP that adds a physical item to rename items in-game. Players can use the item to set a custom name for the item they are holding.
 
 ## Features
