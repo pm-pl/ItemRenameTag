@@ -73,3 +73,7 @@ If you encounter any issues or have suggestions for improvements, please report 
 - [ ] Add Lore Modifier
 - [ ] Make items HAVE to be enchanted optional
 - [ ] Possibly add more ideas from my other [Plugin](https://github.com/iLVOEWOCK/AdvancedEnchantments) (Scroll wise)
+
+## Icon
+
+<a href="https://www.freepik.com/icon/marquise-diamond_1889618#position=6&page=1&term=Minecraft+Items&fromView=search">Icon by Freepik</a>
